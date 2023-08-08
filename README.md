@@ -1,6 +1,6 @@
 <h1 align="center">Vladimir Pavlov<h2>
 <h3 align="center">C# .NET Developer</h3>
-
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <!--
 **HappyMaxStudio/HappyMaxStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
