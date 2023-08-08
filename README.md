@@ -1,5 +1,5 @@
 <h1 align="center">Vladimir Pavlov<h2>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">C# .NET Developer</h3>
 
 <!--
 **HappyMaxStudio/HappyMaxStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
