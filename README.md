@@ -5,10 +5,8 @@
 <p>    На данный момент работаю в должности типа Laboratory Technician в газовой компании, занимаюсь измерением концентраций газовых смесей и разработкой и обслуживанием внутрилабораторног програмного обеспечения(пока только пара программ). Хочу "перейти в айти", стать настоящим профи в этой области, уделять этой сфере время не только поздними вечерами и ночами. Английский - между Upper Intermediate и Advanced</p>
 <div>
 <h3>Ниже - список языков и технологий, которыми в той или иной степени я владею:</h3>
-<img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/ >
 <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/ >
 <img src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/ >
-<img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/ >
 <img src = "https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/ >
 <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/ >
 <img src = "https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/ >
